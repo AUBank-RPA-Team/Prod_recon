@@ -1,0 +1,65 @@
+Original Buyer Copy
+
+TAX INVOICE
+2 0 - 0 4 4 0 5 5 2
+INGRAM MICRO INDIA PRIVATE LIMITED INGRAM MICRO INDIA PRIVATE LIMITED
+Regd. Office: Fifth Floor, Empire Plaza, Building A, LBS Marg, Vikhroli (W),
+SHIPPED FROM
+Mumbai – 400083, Maharashtra, India  Ph.: +91 22 68561001/1401
+Website: www.ingrammicro.com 5TH FLOOR, EMPIRE PLAZA BUILDING A
+CIN: U72900MH1996PTC136340, PAN: AABCT1296R LBS MARG, VIKHROLI (WEST)
+MUMBAI, MAHARASHTRA     400 083
+GST State: 27 / MAHARASHTRA
+GSTIN: 27AABCT1296R1ZN
+
+AHANA SYSTEMS & SOLUTION P LTD     AHANA SYSTEMS & SOLUTION P LTD
+NO-502/37,1ST MAIN ROAD 40TH       NO-502/37,1ST MAIN ROAD 40TH
+CROSS 8TH BLOCK                    CROSS 8TH BLOCK
+BILL TO SHIP TO
+JAYANAGAR                          JAYANAGAR
+BANGALORE   560070          - 560070 BANGALORE   560070          - 560070
+GST State: 29 / KARNATAKA
+GSTIN: 29AAGCA6756N1ZY                    GST State: 29 / KARNATAKA
+PAN: AAGCA6756N GSTIN: 29AAGCA6756N1ZY
+SHARDHA......... 9880555709....  SHARDHA......... 9880555709....
+
+CUSTOMER PO NUMBER MP-0064297        INVOICE NUMBER 30ID2140440552 INVOICE DATE/TIME 18/12/2021  09:58
+
+IRN NUMBER 0d4f95ca8e33b5fe51c514b499143105e4b59c4359b159844d30fe3a4867f04d
+
+CONSIGNMENT NOTE NO                    CARRIER / MODE                 E-WAY BILL NO E
+
+SALES ORDER NUMBER 20-22998-11 CUSTOMER NUMBER 20-AHSYSO-000-000 TERMS/ DUE DATE 45DAYS PDC
+
+PLACE OF SUPPLY KARNATAKA             DELIVERY TERM CLOUD PRODUCT    PAGE NUMBER   1
+
+SEQ IM SKU NUMBER/ Qty / QTY UNIT PRICE / SUB TOTAL FREIGHT/ TAXABLE GST RATE/ EXTENDED
+DESCRIPTION CODE RATE DISCOUNT VALUE AMOUNT AMOUNT
+
+1   SIVDDA166698                1 EA       2,754.00      2,754.00                      2,754.00 IGST 18.00%          3,249.72
+MICROSOFT 365 BUSINESS STANDARDBLAD                                                                495.72
+ON (ANNUAL)
+
+VEND PART:MICROSOFT 365 BUSINE
+SAC:  998315
+TYPE: SERVICES
+
+EU:SISA INFORMATION SECURITY PVT.
+OD:0064297
+ID:5476865
+SP:09/12/2021 TO 11/06/2022
+
+SUB-TOTAL(1)     TOTAL CGST      TOTAL SGST      TOTAL IGST       TOTAL CESS     SUB-TOTAL(2)       DISCOUNT       OTHERS    GRAND TOTAL
+2754.00                                           495.72                          495.72                                    3249.72
+RUPEES THREE THOUSAND TWO HUNDRED FORTY NINE AND SEVENTY TWO PAISA
+
+Number of Boxes Shipped Number of Boxes Received Date of Receipt Receiver's Signature & Seal For Ingram Micro India Private Ltd.
+
+Electronically generated and
+Digitally signed by
+"Acceptance of Goods and Services under this invoice or making part or full payment or only acknowledgment of this invoice is treated as acceptance of DHRITIMAN CHAKRABORTY
+Terms & Conditions printed overleaf and acceptance of Sales Terms & Conditions of Ingram Micro available at www.imonline.co.in" Date: 18 December 2021
+E. & O.E.
+"Ingram Micro India Private Ltd. and the customer agree, in case of any dispute arising out of or in connection with this transaction shall be referred to a sole Time: 11:04:18   IST
+arbitrator appointed by Ingram Micro India Private Ltd. and his decision shall be final and binding on both the parties" Authorised Signatory
+"We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct"

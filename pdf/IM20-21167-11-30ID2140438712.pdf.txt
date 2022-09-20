@@ -1,0 +1,77 @@
+Original Buyer Copy
+
+TAX INVOICE
+2 0 - 0 4 3 8 7 1 2
+INGRAM MICRO INDIA PRIVATE LIMITED INGRAM MICRO INDIA PRIVATE LIMITED
+Regd. Office: Fifth Floor, Empire Plaza, Building A, LBS Marg, Vikhroli (W),
+SHIPPED FROM
+Mumbai – 400083, Maharashtra, India  Ph.: +91 22 68561001/1401
+Website: www.ingrammicro.com 5TH FLOOR, EMPIRE PLAZA BUILDING A
+CIN: U72900MH1996PTC136340, PAN: AABCT1296R LBS MARG, VIKHROLI (WEST)
+MUMBAI, MAHARASHTRA     400 083
+GST State: 27 / MAHARASHTRA
+GSTIN: 27AABCT1296R1ZN
+
+AHANA SYSTEMS & SOLUTION P LTD     AHANA SYSTEMS & SOLUTION P LTD
+NO-502/37,1ST MAIN ROAD 40TH       NO-502/37,1ST MAIN ROAD 40TH
+CROSS 8TH BLOCK                    CROSS 8TH BLOCK
+BILL TO SHIP TO
+JAYANAGAR                          JAYANAGAR
+BANGALORE   560070          - 560070 BANGALORE   560070          - 560070
+GST State: 29 / KARNATAKA
+GSTIN: 29AAGCA6756N1ZY                    GST State: 29 / KARNATAKA
+PAN: AAGCA6756N GSTIN: 29AAGCA6756N1ZY
+SHARDHA......... 9880555709....  SHARDHA......... 9880555709....
+
+CUSTOMER PO NUMBER /0112-2122/000049 INVOICE NUMBER 30ID2140438712 INVOICE DATE/TIME 13/12/2021  18:55
+
+IRN NUMBER da3f7d0eeaff63b8fab1dcbffd4e2f14280709a20a4c11b258c278c782a48f54
+
+CONSIGNMENT NOTE NO                    CARRIER / MODE                 E-WAY BILL NO SERVICES
+
+SALES ORDER NUMBER 20-21167-11 CUSTOMER NUMBER 20-AHSYSO-000-000 TERMS/ DUE DATE 45DAYS PDC
+
+PLACE OF SUPPLY KARNATAKA             DELIVERY TERM SURFACE (O)      PAGE NUMBER   1
+
+SEQ IM SKU NUMBER/ Qty / QTY UNIT PRICE / SUB TOTAL FREIGHT/ TAXABLE GST RATE/ EXTENDED
+DESCRIPTION CODE RATE DISCOUNT VALUE AMOUNT AMOUNT
+
+1   SI1GH0015718                3 EA       2,400.00      7,200.00                      7,200.00 IGST 18.00%          8,496.00
+CLD 1-WKL SCRT(ESSN)-ANMLW+XDR-                                                                  1,296.00
+AN SB PR SV/VM/IN,ADD NRM,12M,1-100
+EU#-000599914 AGILE LABS PVT LIMITE
+MC#A
+UPC:
+VEND PART:CXC2ZLMXXLCZZZ
+SAC:  998434
+TYPE: SERVICES
+
+2   SI13G20767                  3 EA       4,500.00     13,500.00                     13,500.00 IGST 18.00%         15,930.00
+CLD ONE-WKL SC(ESS)-ANMW+XDR-AN                                                                  2,430.00
+SUB PR SVR/VM/INS,RNW,NRM,22M,1-100
+EU#-000599914 AGILE LABS PVT LIMITE
+MC#A
+***REF.TDS DECLARATION 1***
+UPC:
+VEND PART:CXC2ZLMXXLCZZZ
+SAC:  998313
+TYPE: SERVICES
+
+633747
+
+* * * D I R E C T   D I R E C T   D I R E C T  * * *
+
+SUB-TOTAL(1)     TOTAL CGST      TOTAL SGST      TOTAL IGST       TOTAL CESS     SUB-TOTAL(2)       DISCOUNT       OTHERS    GRAND TOTAL
+20700.00                                          3726.00                         3726.00                                   24426.00
+RUPEES TWENTY FOUR THOUSAND FOUR HUNDRED TWENTY SIX AND ZERO PAISA
+
+Number of Boxes Shipped Number of Boxes Received Date of Receipt Receiver's Signature & Seal For Ingram Micro India Private Ltd.
+
+Electronically generated and
+Digitally signed by
+"Acceptance of Goods and Services under this invoice or making part or full payment or only acknowledgment of this invoice is treated as acceptance of DHRITIMAN CHAKRABORTY
+Terms & Conditions printed overleaf and acceptance of Sales Terms & Conditions of Ingram Micro available at www.imonline.co.in" Date: 13 December 2021
+E. & O.E.
+"Ingram Micro India Private Ltd. and the customer agree, in case of any dispute arising out of or in connection with this transaction shall be referred to a sole Time: 19:26:40   IST
+arbitrator appointed by Ingram Micro India Private Ltd. and his decision shall be final and binding on both the parties" Authorised Signatory
+"We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct"
